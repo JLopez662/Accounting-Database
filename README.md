@@ -17,7 +17,8 @@ A demo of this project is available at https://ccountingdb.000webhostapp.com/
 ## Introduction:
 
 The Accounting Database is a custom software designed to aid companies in their daily workflow by providing a centralized platform where they can manage their clients and their respective information. This software offers an efficient and user-friendly interface to quickly access and manage client data, reducing time spent on manual tasks and minimizing the chances of human error.
-Motivation
+
+## Motivation
 This software was created to address the problems faced by companies in managing their client information. With the increasing workload and tight deadlines, employees were struggling to manage the vast amount of data scattered across different files and folders. The Accounting Database was created to provide a solution to this problem by providing a centralized platform to store and access client data.
 
 ## Problem Solved:
