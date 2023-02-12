@@ -2,8 +2,10 @@
 	include 'employee.php';
 	include 'dbh.php';
 	
+	// check if the submit button is pressed
 	if(isset($_POST['submit']))
-	{
+	{		
+		// escape special characters and save the data into variables
 		$estatal = mysqli_real_escape_string($conn,$_POST['Estatal']);
 		$poliza = mysqli_real_escape_string($conn,$_POST['Poliza']);
 		$regcomerciante = mysqli_real_escape_string($conn, $_POST['RegComerciante']);
@@ -33,33 +35,28 @@
 
 	mysqli_report(MYSQLI_REPORT_ALL ^ MYSQLI_REPORT_INDEX);
 
-	#$result = mysqli_query($conn,"SELECT * FROM empleados WHERE EID = '$staff' ");
-    #$row= mysqli_fetch_array($result);
-    
-
+	// insert data into the "contributivos" table
     $sql5 = "INSERT INTO contributivos (ID, Nombre, NombreComercial, Estatal, Poliza, RegComerciante, Vencimiento, Choferil, 
     DeptEstado, CID, MID) 
 	VALUES ('$tid', '$name', '$comercial', '$estatal', '$poliza', '$regcomerciante', '$vencimiento', '$choferil',
      '$deptestado', '$cid', '$mid');";
 
-    /*
-	$sql6 = "INSERT INTO license (LicConducir) 
-    VALUES ('$licconducir');";  
-	*/
-
+	// insert data into the "identificacion" table
     $sql7 = "INSERT INTO identificacion (ID, Nombre, NombreComercial, Accionista, SSNA, Cargo, LicConducir, Nacimiento, CID, MID ) 
     VALUES ('$tid', '$name', '$comercial', '$accionista', '$ssna', '$cargo', '$licconducir', '$nacimiento', '$cid', '$mid');";
 
+	// insert data into the "administrativo" table
     $sql8 = "INSERT INTO administrativo (ID, Nombre, NombreComercial, Contrato, Facturacion, FacturacionBase, 
 	IVU, Staff, StaffDate, CID, MID) 
     VALUES ('$tid', '$name', '$comercial', '$contrato', '$facturacion', '$facturacionbase', '$ivu', '$staff', 
 	'$staffdate','$cid', '$mid');";
 
-	mysqli_query($conn, $sql5);
-    #mysqli_query($conn, $sql6);
+	// execute the SQL statements
+	mysqli_query($conn, $sql5);;
     mysqli_query($conn, $sql7);
     mysqli_query($conn, $sql8);
 
+	// redirect to the "ingreso3.php" page with a success message
 	header("Location: ingreso3.php?signup=success");
 
 
