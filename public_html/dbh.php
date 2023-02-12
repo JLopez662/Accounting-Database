@@ -16,6 +16,7 @@
 
 
 <?php
+     // This code establishes a database connection to a MySQL database named "test"
     include 'core.php';
     $conn = mysqli_connect("localhost", "root", "", "test");
 ?>
