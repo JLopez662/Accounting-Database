@@ -51,10 +51,14 @@ Please note that the installation steps may vary slightly depending on your oper
 - On the selected category page, view, modify, open the corresponding folder or delete the client's information as needed.
 
 ## Preview:
-![Search Section](search.png)
-![Modify Section](modify.png)
-![New Client Section](new_client.png)
-
+<div style="display: flex;">
+  <img src="new_client.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+  <img src="search.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+  <img src="modify.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+  <img src="new_employee.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+  <img src="modify_emp.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+  <img src="delete_emp.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+</div>
 ## Credit: 
 This project wouldn't have been possible without the contributions of various open-source resources. A big thanks to:
 - DevCrud.com for providing the free template, Rubic, which served as the foundation for this project. https://wwww.devcrud.com/
