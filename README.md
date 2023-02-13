@@ -12,7 +12,7 @@ A demo of this project is available at https://ccountingdb.000webhostapp.com/
 - [What Makes the Project Stand Out](#what-makes-the-project-stand-out)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Pictures Preview](#preview)
+- [Pictures Preview of the Software](#preview)
 - [Credit](#credit)
 
 ## Introduction:
