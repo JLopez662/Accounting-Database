@@ -54,7 +54,6 @@ Please note that the installation steps may vary slightly depending on your oper
 ![Search Section](search.png)
 ![Modify Section](modify.png)
 ![New Client Section](new_client.png)
-![Modify User Section](modify_emp.png)
 
 ## Credit: 
 This project wouldn't have been possible without the contributions of various open-source resources. A big thanks to:
