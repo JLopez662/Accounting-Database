@@ -2,22 +2,31 @@
 
 # Accounting Database
 
-A demo of this project is available at https://ccountingdb.000webhostapp.com/
-
 ## Table of Contents:
 - [Introduction](#introduction)
+- [Pictures Preview of the Software](#preview)
 - [Motivation](#motivation)
 - [Problem Solved](#problem-solved)
 - [What was Learned](#what-was-learned)
 - [What Makes the Project Stand Out](#what-makes-the-project-stand-out)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Pictures Preview of the Software](#preview)
+
 - [Credit](#credit)
 
 ## Introduction:
 
 The Accounting Database is a custom software designed to aid companies in their daily workflow by providing a centralized platform where they can manage their clients and their respective information. This software offers an efficient and user-friendly interface to quickly access and manage client data, reducing time spent on manual tasks and minimizing the chances of human error.
+
+## Preview:
+<div style="display: flex;">
+  <img src="new_client.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="search.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="modify.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="new_employee.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="modify_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="delete_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+</div>
 
 ## Motivation
 This software was created to address the problems faced by companies in managing their client information. With the increasing workload and tight deadlines, employees were struggling to manage the vast amount of data scattered across different files and folders. The Accounting Database was created to provide a solution to this problem by providing a centralized platform to store and access client data.
@@ -49,16 +58,6 @@ Please note that the installation steps may vary slightly depending on your oper
 - To create a new client, go to the "Create Client" section and fill out the required forms.
 - To search for a client, enter the client's ID in the search box and select the appropriate category from the navbar.
 - On the selected category page, view, modify, open the corresponding folder or delete the client's information as needed.
-
-## Preview:
-<div style="display: flex;">
-  <img src="new_client.png" style="height: 180px; width: 300px; margin-right: 20px;" />
-  <img src="search.png" style="height: 180px; width: 300px; margin-right: 20px;" />
-  <img src="modify.png" style="height: 180px; width: 300px; margin-right: 20px;" />
-  <img src="new_employee.png" style="height: 180px; width: 300px; margin-right: 20px;" />
-  <img src="modify_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
-  <img src="delete_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
-</div>
 
 ## Credit: 
 This project wouldn't have been possible without the contributions of various open-source resources. A big thanks to:
