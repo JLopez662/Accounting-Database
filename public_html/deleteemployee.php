@@ -31,7 +31,7 @@
             <input type ="text" name = "Identifier" required minlength = "3" maxlength= "4" placeholder= "***" /></td> 
 
              <!-- submit button to initiate the deletion -->
-            <input type = "submit" name = "delete" value="Remover Cliente" /> <br>
+            <input type = "submit" name = "delete" value="Remover Cuenta" /> <br>
         </form>
         </tr>
             
