@@ -4,15 +4,15 @@
 
 A demo of this project is available at https://ccountingdb.000webhostapp.com/
 
-# Table of Contents:
-
-- Motivation
-- Problem Solved
-- What was Learned
-- What Makes the Project Stand Out
-- Installation
-- Usage
-- Credit
+## Table of Contents:
+- [Introduction](#introduction)
+- [Motivation](#motivation)
+- [Problem Solved](#problem-solved)
+- [What was Learned](#what-was-learned)
+- [What Makes the Project Stand Out](#what-makes-the-project-stand-out)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credit](#credit)
 
 ## Introduction:
 
