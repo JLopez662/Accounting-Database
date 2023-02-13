@@ -59,6 +59,7 @@ Please note that the installation steps may vary slightly depending on your oper
   <img src="modify_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
   <img src="delete_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
 </div>
+
 ## Credit: 
 This project wouldn't have been possible without the contributions of various open-source resources. A big thanks to:
 - DevCrud.com for providing the free template, Rubic, which served as the foundation for this project. https://wwww.devcrud.com/
