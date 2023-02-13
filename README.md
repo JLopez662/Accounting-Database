@@ -5,6 +5,7 @@
 A demo of this project is available at https://ccountingdb.000webhostapp.com/
 
 ## Table of Contents:
+- [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Problem Solved](#problem-solved)
 - [What was Learned](#what-was-learned)
