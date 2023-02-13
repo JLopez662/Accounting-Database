@@ -12,6 +12,7 @@ A demo of this project is available at https://ccountingdb.000webhostapp.com/
 - [What Makes the Project Stand Out](#what-makes-the-project-stand-out)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Pictures Preview](#preview)
 - [Credit](#credit)
 
 ## Introduction:
@@ -48,6 +49,11 @@ Please note that the installation steps may vary slightly depending on your oper
 - To create a new client, go to the "Create Client" section and fill out the required forms.
 - To search for a client, enter the client's ID in the search box and select the appropriate category from the navbar.
 - On the selected category page, view, modify, open the corresponding folder or delete the client's information as needed.
+
+## Preview:
+![Search Section](search.png)
+![Modify Section](modify.png)
+![New Client Section](new_client.png)
 
 ## Credit: 
 This project wouldn't have been possible without the contributions of various open-source resources. A big thanks to:
