@@ -52,12 +52,12 @@ Please note that the installation steps may vary slightly depending on your oper
 
 ## Preview:
 <div style="display: flex;">
-  <img src="new_client.png" style="height: 140px; width: 200px; margin-right: 20px;" />
-  <img src="search.png" style="height: 140px; width: 200px; margin-right: 20px;" />
-  <img src="modify.png" style="height: 140px; width: 200px; margin-right: 20px;" />
-  <img src="new_employee.png" style="height: 140px; width: 200px; margin-right: 20px;" />
-  <img src="modify_emp.png" style="height: 140px; width: 200px; margin-right: 20px;" />
-  <img src="delete_emp.png" style="height: 140px; width: 200px; margin-right: 20px;" />
+  <img src="new_client.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="search.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="modify.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="new_employee.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="modify_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
+  <img src="delete_emp.png" style="height: 180px; width: 300px; margin-right: 20px;" />
 </div>
 ## Credit: 
 This project wouldn't have been possible without the contributions of various open-source resources. A big thanks to:
